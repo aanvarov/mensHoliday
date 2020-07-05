@@ -48,6 +48,7 @@ body {
 }
 /* header */
 header {
+  background-color: grey;
   background-image: url(../img/hero.png);
   background-repeat: no-repeat;
   background-size: cover;
