@@ -5,6 +5,7 @@ html {
   scroll-behavior: smooth;
 }
 body {
+  background-color: grey;
   background-image: url(../img/body.png);
   background-repeat: no-repeat;
   background-size: cover;
