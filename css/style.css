@@ -835,8 +835,6 @@ header {
   .crayGrams {
     padding: 5px;
   }
-}
-@media (max-width: 375px) {
   .discountBanner {
     background-size: cover;
     background-position: center;
@@ -845,7 +843,6 @@ header {
     height: auto;
     padding: 10px;
   }
-
 }
 @media (max-width: 320px) {
   .title {
