@@ -836,6 +836,17 @@ header {
     padding: 5px;
   }
 }
+@media (max-width: 375px) {
+  .discountBanner {
+    background-size: cover;
+    background-position: center;
+    border-radius: 15px;
+    width: 100%;
+    height: auto;
+    padding: 10px;
+  }
+
+}
 @media (max-width: 320px) {
   .title {
     font-size: 26px;
@@ -844,14 +855,6 @@ header {
     width: calc(70% - 15px);
     margin: 0 auto;
     margin-bottom: 10px;
-  }
-  .discountBanner {
-    background-size: cover;
-    background-position: center;
-    border-radius: 15px;
-    width: 100%;
-    height: auto;
-    padding: 10px;
   }
   .caterItem:last-child {
     width: 80%;
